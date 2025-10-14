@@ -1,7 +1,7 @@
 # 💰 Controle Financeiro Pessoal
 
 ## 👨‍💻 Desenvolvido por
-**Guilherme Correia**
+**Rafael Haintz da Silva**
 
 ## 📚 Disciplina
 **Desenvolvimento de Aplicações Mobile**
